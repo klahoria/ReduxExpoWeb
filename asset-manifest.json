@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/ReduxExpoWeb/static/js/app.e33a24eb.chunk.js",
+    "app.js.map": "/ReduxExpoWeb/static/js/app.e33a24eb.chunk.js.map",
+    "runtime~app.js": "/ReduxExpoWeb/static/js/runtime~app.483b8671.js",
+    "runtime~app.js.map": "/ReduxExpoWeb/static/js/runtime~app.483b8671.js.map",
+    "static/js/2.b6650ac3.chunk.js": "/ReduxExpoWeb/static/js/2.b6650ac3.chunk.js",
+    "static/js/2.b6650ac3.chunk.js.map": "/ReduxExpoWeb/static/js/2.b6650ac3.chunk.js.map",
+    "favicon-16.png": "/ReduxExpoWeb/favicon-16.png",
+    "favicon-32.png": "/ReduxExpoWeb/favicon-32.png",
+    "favicon.ico": "/ReduxExpoWeb/favicon.ico",
+    "index.html": "/ReduxExpoWeb/index.html",
+    "manifest.json": "/ReduxExpoWeb/manifest.json",
+    "serve.json": "/ReduxExpoWeb/serve.json",
+    "static/js/2.b6650ac3.chunk.js.LICENSE.txt": "/ReduxExpoWeb/static/js/2.b6650ac3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.483b8671.js",
+    "static/js/2.b6650ac3.chunk.js",
+    "static/js/app.e33a24eb.chunk.js"
+  ]
+}
